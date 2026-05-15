@@ -1,0 +1,22 @@
+{
+    "version": "0.9.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/yumauri/fbrcm/releases/download/v0.9.0/fbrcm_windows_x86_64.zip",
+            "bin": [
+                "fbrcm.exe"
+            ],
+            "hash": "c303e7f95bee8dc52794abcfd383b7c721469315e6b89de682dcc6f03799a6ef"
+        },
+        "arm64": {
+            "url": "https://github.com/yumauri/fbrcm/releases/download/v0.9.0/fbrcm_windows_arm64.zip",
+            "bin": [
+                "fbrcm.exe"
+            ],
+            "hash": "44a674f8b0ecea9dbc6176827aa6847b305fff7e1e8bcba06236a0ecab3c9453"
+        }
+    },
+    "homepage": "https://github.com/yumauri/fbrcm",
+    "license": "MIT",
+    "description": "Firebase Remote Config Management"
+}
