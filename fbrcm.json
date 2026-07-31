@@ -1,19 +1,19 @@
 {
-    "version": "0.14.0",
+    "version": "0.15.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/yumauri/fbrcm/releases/download/v0.14.0/fbrcm_windows_x86_64.zip",
+            "url": "https://github.com/yumauri/fbrcm/releases/download/v0.15.0/fbrcm_windows_x86_64.zip",
             "bin": [
                 "fbrcm.exe"
             ],
-            "hash": "52c47990a24710f7df73aa51829893cd173fea6e9e3926ac91408b884bc8b730"
+            "hash": "3318997787aac49b8d609717280712ce8b7f7f47c46fd9fca6d7ebf1346ed4e7"
         },
         "arm64": {
-            "url": "https://github.com/yumauri/fbrcm/releases/download/v0.14.0/fbrcm_windows_arm64.zip",
+            "url": "https://github.com/yumauri/fbrcm/releases/download/v0.15.0/fbrcm_windows_arm64.zip",
             "bin": [
                 "fbrcm.exe"
             ],
-            "hash": "83c54e60d83e1d3c49c1ccec43eba1fc2e9880728ca90ca25b7da204940c2428"
+            "hash": "130a22ef087cec20a058d9d098d24c395d83313f514cf93f06129bf362ffb73b"
         }
     },
     "homepage": "https://github.com/yumauri/fbrcm",
